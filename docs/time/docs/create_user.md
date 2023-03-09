@@ -17,6 +17,7 @@ Um Benutzer Anlegen zu können benötigt man System-Admin Berechtigung.
 3. Klicken des Plus Icons in der oberen rechten Ecke
 4. Ausfüllen der Daten
 5. Mit Speichern Benutzer anlegen
+6. Nutzer kann sich nun mit Mail Adresse und dem vergebenen Passwort anmelden
 
 {: .important }
 Wird keine Rolle ausgewählt bekommt der User standardmäßig die Benutzer Rolle
