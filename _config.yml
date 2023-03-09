@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "Cloud Six Doku"
+description: "Dokumentation zu Services der Cloud Six GmbH"
 theme: just-the-docs
+color_scheme: "dark"
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View on GitHub: https://github.com/Cloud-Six-GmbH/docs.cloud6.tech
