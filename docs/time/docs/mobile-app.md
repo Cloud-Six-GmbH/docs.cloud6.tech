@@ -10,10 +10,10 @@ layout: default
 # Einrichten der  Mobile App
 
 {: .important }
-> Es existieren sowohl für iOS als auch für Android andere Apps.
-> Unterstützt werden nur die Kostenpflichtigen der Firma Cloudrizon GmbH
+> Es existieren sowohl für iOS als auch für Android andere kostenfrei Apps.
+> Empfohlen werden nur die Kostenpflichtigen der Firma Cloudrizon GmbH.
 >
-> Diese sind ebenfalls hier verlinkt
+> Diese sind ebenfalls hier verlinkt und beschrieben.
 
 ## Download der App
 
@@ -38,7 +38,7 @@ layout: default
         <dt>Workspace Name</dt>
         <dd>Firmenname</dd>
         <dt>Server URL</dt>
-        <dd>URL der Website - https://time.<FIRMEN DOMAIN>/dd>
+        <dd>URL der Website - https://time.'FIRMEN DOMAIN'</dd>
         <dt>Email</dt>
         <dd>User Login Email</dd>
         <dt>Password</dt>
